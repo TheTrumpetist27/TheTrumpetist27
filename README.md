@@ -1,7 +1,7 @@
 ## Welcome!
 
 ### 👋 It's a pleasure to meet you! I'm Kian.
-I'm a student for front-end webdevelopement. I am 19 years old and I live in the Netherlands.
+I'm a student for Software/web-developement. I am 19 years old and I live in the Netherlands.
 - 👀 I’m interested in al kinds of stuff and tools for webdevelopement.
 - 🌱 I’m currently learning about the wondrous world of **JavaScript**.
 - 📫 How to reach me: You can reach me through my [LinkedIn](https://www.linkedin.com/in/kian-bruyenberg/) page.
