@@ -1,9 +1,9 @@
 ## Welcome!
 
 ### 👋 It's a pleasure to meet you! I'm Kian.
-I'm a student for Software/web-developement. I am 21 years old and I live in the Netherlands.
-- 👀 I’m interested in al kinds of stuff and tools for webdevelopement.
-- 🌱 I’m currently learning about the wondrous world of **JavaScript**.
+I'm a student for AI & Machine Learning and Software/web-developement. I am 23 years old and I live in the Netherlands.
+- 👀 I’m interested in al kinds of stuff and tools for AI & Machine Learning.
+- 🌱 I’m currently learning about the wondrous world of **Machine Learning**.
 - 📫 How to reach me: You can reach me through my [LinkedIn](https://www.linkedin.com/in/kian-bruyenberg/) page.
 
 <!---
